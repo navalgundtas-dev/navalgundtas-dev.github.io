@@ -11,14 +11,14 @@ I am a final-year Computer Science Engineering student at the **KLE Institute of
 
 ---
 
-### 💻 Technical Expertise
+### Technical Expertise
 * **Primary Languages:** C++ (Advanced), Python, C, SQL
 * **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Relational Databases (DBMS)
 * **Frameworks & Dev Tools:** Flask, OpenCV, NumPy, Git/GitHub
 
 ---
 
-### 🚀 Key Technical Projects
+###  Key Technical Projects
 
 #### **1. Multimedia Steganography Web Application**
 * **Overview:** A secure data transmission system supporting 5 separate media types using LSB embedding strategies.
@@ -31,6 +31,6 @@ I am a final-year Computer Science Engineering student at the **KLE Institute of
 
 ---
 
-### 🎓 Academic & Extramural Highlights
+###  Academic & Extramural Highlights
 * **Certifications:** Completed *Mastering DSA using C/C++* (Udemy) & *Programming in C* (NPTEL).
 * **Competitive Activities:** Active participant in college tech hackathons. Team athlete representing college varsity volleyball and table tennis clubs.
