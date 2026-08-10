@@ -13,10 +13,10 @@ title                    : "Tasmiya Navalgund / Software Engineer"
 title_separator          : "-"
 name                     : &name "Tasmiya Navalgund"
 description              : &description "Computer Science Engineering student with an 8.6 CGPA and a strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and Database Management Systems. Experienced in developing secure web applications using Python, Flask, SQL, and modern web technologies through academic projects. Eager to apply problem-solving and software development skills to build scalable and impactful applications"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://navalgundtas-dev.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      :https://github.com/navalgundtas-dev # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ".https://github.com/navalgundtas-dev/navalgundtas-dev.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
